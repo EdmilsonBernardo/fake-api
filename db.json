@@ -1,22 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "teste",
-      "image": "./public/images/products/product4.png",
-      "price": "$ 199.99"
+      "name": "Kristina Dam Oak Table With White Marble Top",
+      "image": "./public/images/products/product1.png",
+      "price": "$ 799.55"
     },
     {
-      "id": 1,
-      "name": "teste",
-      "image": "./public/images/products/product4.png",
-      "price": "$ 199.99"
+      "name": "Hay - About A Lounge Chair AAL 93",
+      "image": "./public/images/products/product2.png",
+      "price": "$ 659.55"
     },
     {
-      "id": 1,
-      "name": "teste",
+      "name": "Activate Facial Mask and Charcoal Soap",
+      "image": "./public/images/products/product3.png",
+      "price": "$ 129.55"
+    },
+    {
+      "name": "Cocktail Table Walnut | YES",
       "image": "./public/images/products/product4.png",
-      "price": "$ 199.99"
+      "price": "$ 299.99"
     }
   ],
   "profile": {
