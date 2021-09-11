@@ -2,7 +2,9 @@
   "products": [
     {
       "id": 1,
-      "title": "teste"
+      "name": "teste",
+      "image": "./public/images/products/product4.png",
+      "price": "$ 199.99"
     }
   ],
   "profile": {
