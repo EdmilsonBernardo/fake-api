@@ -3,23 +3,23 @@
     {
       "image": "./public/images/products/product4.png",
       "name": "Product 1",
-      "price": "$ 199.99",
+      "price": "$ 199.99"
     },
     {
       "image": "./public/images/products/product4.png",
       "name": "Product 1",
-      "price": "$ 199.99",
+      "price": "$ 199.99"
     },
     {
       "image": "./public/images/products/product4.png",
       "name": "Product 1",
-      "price": "$ 199.99",
+      "price": "$ 199.99"
     },
     {
       "image": "./public/images/products/product4.png",
       "name": "Product 1",
-      "price": "$ 199.99",
-    },
+      "price": "$ 199.99"
+    }
   ],
   "profile": {
     "name": "typicode"
