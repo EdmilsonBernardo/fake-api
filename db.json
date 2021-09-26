@@ -2,12 +2,12 @@
   "products": [
     {
       "name": "Kristina Dam Oak Table With White Marble Top",
-      "image": "./public/images/products/product1.png",
+      "image": "../../public/images/products/product1.png",
       "price": "$ 799.55"
     },
     {
       "name": "Hay - About A Lounge Chair AAL 93",
-      "image": "./public/images/products/product2.png",
+      "image": "../../public/images/products/product2.png",
       "price": "$ 659.55"
     },
     {
